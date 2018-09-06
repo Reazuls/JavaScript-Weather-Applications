@@ -1,8 +1,8 @@
 <h1>User Story</h1>
--web based app for weather forecast
--simple UI
--the app must contain: currently, daily, hourly weather forecast
--icons
--humidity, windspeed, max/min temperature, pressure
--the user must inset just location name
--save user cities
+- Web based app for weather forecast<br>
+- Simple UI<br>
+- The app must contain: Currently, Daily, Hourly weather forecast.<br>
+- Icons.<br>
+- Humidity, Windspeed, Max/Min Temperature, Pressure.<br>
+- The user must inset just location name.<br>
+- Save user cities.<br>
