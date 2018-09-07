@@ -14,7 +14,7 @@ API- is software intermediary that allows two applications to talk to each other
 
 <h2>Application Meta Information</h2>
 
-we will take care of the <head> tag<br>
+we will take care of the (head) tag<br>
 - Add a favicon.<br>
 - Add a font from google fonts.<br>
 - Connect to our app using our phone and add a theme color.<br>
