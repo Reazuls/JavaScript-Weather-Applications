@@ -6,3 +6,8 @@
 - Humidity, Windspeed, Max/Min Temperature, Pressure.<br>
 - The user must inset just location name.<br>
 - Save user cities.<br>
+
+<h2>API</h2>
+
+API- Application Programming Interface. <br>
+API- is software intermediary that allows two applications to talk to each other.<br>
